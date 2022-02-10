@@ -7,7 +7,7 @@ Which tag is used for representing the result of a calculation? <br>
 ANS : The <output> tag is used for representing the result of a calculation
   
 What is new about the relationship between the header and h1 tags in HTML5 ? <br>
-ANS : the header for one section such as <article> or <section>. According to the HTML5 specification, each <header> element must at least have one <h1> tag
+ANS : the header for one section such as article or section. According to the HTML5 specification, each header element must at least have one h1 tag
   
 Explain HTML5 Graphics <br>
 ANS : html5 support two types of graphics  1.canvas(it is like drawing a whitepaper) 2.svg(it is used for icon)

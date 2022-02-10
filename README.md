@@ -42,11 +42,11 @@ ANS : To support old browsers instead of defining the resource of svg in src att
 What are different approaches to make an image responsive?
 ANS : width:auto
   
-What is a manifest file in HTML5?
+What is a manifest file in HTML5?<br>
 ANS : The manifest file is used to list down resources that can be cached. there are three types of cache 1.Cache mainfest 2.network 3.fallback
   
-What is the Geolocation API in HTML5?
-ANS :
+What is the Geolocation API in HTML5?<br>
+ANS : Geolocation API is used to share the physical location of the client with websites
   
   
   

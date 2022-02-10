@@ -81,7 +81,7 @@ HTML attribute values are case-sensitive?
 True
 
 9.
-Using which attribute we can add a tooltip in the HTML element.
+Using which attribute we can add a tooltip in the HTML element?.
 title
 
 10.
@@ -101,7 +101,7 @@ Which of the following attribute triggers an event when all the media data of a 
 onloadedmetadata
 
 13.
-Which attribute defines the accelerator key to be used for keyboard access to an element.
+Which attribute defines the accelerator key to be used for keyboard access to an element?
 accesskey
 
 14.

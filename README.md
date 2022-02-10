@@ -40,7 +40,13 @@ How to support SVG in old browsers?
 ANS : To support old browsers instead of defining the resource of svg in src attribute of <img> tag, it should be defined in srcset attribute and in src the fallback png file should be defined
   
 What are different approaches to make an image responsive?
-ANS : 
+ANS : width:auto
+  
+What is a manifest file in HTML5?
+ANS : The manifest file is used to list down resources that can be cached. there are three types of cache 1.Cache mainfest 2.network 3.fallback
+  
+What is the Geolocation API in HTML5?
+ANS :
   
   
   

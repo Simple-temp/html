@@ -18,7 +18,7 @@ ANS : new input types provided by html5 are Date, week, month, datetime, datetim
 What are the New tags in Media Elements in HTML5 <br>
 ANS : the new tags in media elements in html5 are audio, video, source, embed, track  
   
-How will you make an image draggable in HTML5 ? <br>  
+How will you make an image draggable in HTML5 ? 
 ANS : to enable this functionality there is a draggable attribute in img tag
   
 Why do we need the MathML element in HTML5? <br>
@@ -27,10 +27,10 @@ ANS : Mathml is a mathematical markup languege. it used for displaying mathemati
 What are the server-sent events in HTML5 ? <br>
 ANS : The events pushed from the webserver to the browsers are called server-sent events . <eventsource> element is used
   
-What are Web Workers?
+What are Web Workers?<br>
 ANS : there are three types of web workers 1.dedicated, 2.shared, 3.service
   
-What is the usage of a novalidate attribute for the form tag that is introduced in HTML5?
+What is the usage of a novalidate attribute for the form tag that is introduced in HTML5?<br>
 ANS : Its value is a boolean type that indicates whether or not the data being submitted by the form will be validated beforehand. By making this false, forms can be submitted without validation which helps users to resume later also
 
   

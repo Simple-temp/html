@@ -32,6 +32,25 @@ ANS : there are three types of web workers 1.dedicated, 2.shared, 3.service
   
 What is the usage of a novalidate attribute for the form tag that is introduced in HTML5?<br>
 ANS : Its value is a boolean type that indicates whether or not the data being submitted by the form will be validated beforehand. By making this false, forms can be submitted without validation which helps users to resume later also
+  
+What are raster images and vector images?<br>
+ANS : raster img is non-editable and vesctor img is used algorithm and it extension is svg.
+  
+How to support SVG in old browsers?
+ANS : To support old browsers instead of defining the resource of svg in src attribute of <img> tag, it should be defined in srcset attribute and in src the fallback png file should be defined
+  
+What are different approaches to make an image responsive?
+ANS : 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
   
 

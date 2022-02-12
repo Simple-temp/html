@@ -48,6 +48,26 @@ ANS : The manifest file is used to list down resources that can be cached. there
 What is the Geolocation API in HTML5?<br>
 ANS : Geolocation API is used to share the physical location of the client with websites
   
+What is a marquee?<br>
+ANS : Marquee is used for the scrolling text on a web page
+  
+What is the difference between DIV and SPAN in HTML?  <br>
+ANS : div is block-level element and a span element is in-line and usually used for a small chunk of HTML inside a line,such as inside a paragraph
+  
+What is the purpose of using alternative texts in images? <br>
+ANS : The purpose of using alternative texts is to define what the image is about
+  
+Is the <!DOCTYPE html> tag considered as a HTML tag??
+ANS : No, the <!DOCTYPE html> declaration is not an HTML tag
+  
+Why is a URL encoded in HTML?<br>
+ANS : An URL is encoded to convert non-ASCII characters into a format that can be used over the Internet
+  
+What is the use of a span tag? Explain with example <br>
+ANS : For adding color on text
+      To add background on text
+      Highlight any color text  
+  
 1.
 If you have used inline, internal, and external all the 3 stylings in HTML for a single element then which style will be applied?
 Inline

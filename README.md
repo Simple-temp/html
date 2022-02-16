@@ -91,7 +91,7 @@ ANS : <b> < ! --- > </b>
 
 3.
 Which of the following is the correct HTML syntax for adding background color? <br>
-<p style=”b__g-c__r: #color_code”></p>
+<b style=”b__g-c__r: #color_code”></b>
 
 4.
 Which is the correct HTML syntax for adding a link to the image?

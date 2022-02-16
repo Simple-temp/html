@@ -69,10 +69,16 @@ ANS : For adding color on text
       Highlight any color text  
   
 What is the HTML article element?<br>  
-ANS : The HTML <article> Element specifies independent and self-contained content in a document, page, application example
+  ANS : The HTML <b>article</b> Element specifies independent and self-contained content in a document, page, application example <br>
 Forum post
 Blog post
 Newspaper article  
+
+What are the different media types and formats supported by HTML?<br>
+ANS : Images: jpg, jpeg, png, gif, svg, apng, BMP ico <br>
+Audio: RealAudio, WMA, MIDI, AAC, WAV, MP3, MP4 <br>
+Video: MPEG, AVI, QuickTime, RealVideo, WMV, Flash, WebM, and MP4 
+  
   
   
 1.

@@ -82,8 +82,8 @@ Video: MPEG, AVI, QuickTime, RealVideo, WMV, Flash, WebM, and MP4
   
   
 1.
-If you have used inline, internal, and external all the 3 stylings in HTML for a single element then which style will be applied?
-Inline
+If you have used inline, internal, and external all the 3 stylings in HTML for a single element then which style will be applied?<br>
+ANS : Inline
 
 2.
 Comments in HTML is done by: <br>
@@ -91,7 +91,7 @@ ANS : <b> < ! --- > </b>
 
 3.
 Which of the following is the correct HTML syntax for adding background color? <br>
-<b style=”b__g-c__r: #color_code”></b>
+ANS : <b style=”b__g-c__r: #color_code”></b>
 
 4.
 Which is the correct HTML syntax for adding a link to the image?

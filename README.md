@@ -87,7 +87,7 @@ Inline
 
 2.
 Comments in HTML is done by:
-<b><!-- --></b>
+ANS : <b> < ! --- > </b>
 
 3.
 Which of the following is the correct HTML syntax for adding background color?

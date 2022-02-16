@@ -68,13 +68,20 @@ ANS : For adding color on text
       To add background on text
       Highlight any color text  
   
+What is the HTML article element?<br>  
+ANS : The HTML <article> Element specifies independent and self-contained content in a document, page, application example
+Forum post
+Blog post
+Newspaper article  
+  
+  
 1.
 If you have used inline, internal, and external all the 3 stylings in HTML for a single element then which style will be applied?
 Inline
 
 2.
 Comments in HTML is done by:
-<!-- -->
+<b><!-- --></b>
 
 3.
 Which of the following is the correct HTML syntax for adding background color?

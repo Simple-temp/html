@@ -86,12 +86,12 @@ If you have used inline, internal, and external all the 3 stylings in HTML for a
 Inline
 
 2.
-Comments in HTML is done by:
+Comments in HTML is done by: <br>
 ANS : <b> < ! --- > </b>
 
 3.
-Which of the following is the correct HTML syntax for adding background color?
-<p style=”background-color: #a7b8c9”></p>
+Which of the following is the correct HTML syntax for adding background color? <br>
+<p style=”b__g-c__r: #color_code”></p>
 
 4.
 Which is the correct HTML syntax for adding a link to the image?

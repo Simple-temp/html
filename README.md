@@ -1,4 +1,4 @@
-# html
+# Html
 
 what is microdata in html5? <br>
 ANS : Microdata is a standardized way to provide additional semantics in your web pages. for example itemid , itemprop, itemscope.. <br>

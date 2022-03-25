@@ -50,64 +50,54 @@ Ans : To optimize website load time we need to optimize its asset loading and fo
 What are the various formatting tag in html ?
 Ans : HTML has various formatting tags:<br>
 
-b - makes text bold
-i - makes text italic
-em - makes text italic but with added semantics importance
-big - increases the font size of the text by one unit
-small - decreases the font size of the text by one unit
-sub - makes the text a subscript
-sup - makes the text a superscript
-del - displays as strike out text
-strong - marks the text as important
-mark - highlights the text
-ins - displays as added text
+1. b - makes text bold
+2. i - makes text italic
+3. em - makes text italic but with added semantics importance
+4. big - increases the font size of the text by one unit
+5. small - decreases the font size of the text by one unit
+6. sub - makes the text a subscript
+7. sup - makes the text a superscript
+8. del - displays as strike out text
+9. strong - marks the text as important
+10. mark - highlights the text
+11. ins - displays as added text
 
-what are the defferent kinds of doctypes available ?
-Ans
-The three kinds of Doctypes which are available
+what are the defferent kinds of doctypes available ? <br>
+Ans : The three kinds of Doctypes which are available
+1. Strict Doctype
+2. Transitional Doctype
+3. Frameset Doctype
 
-Strict Doctype
-Transitional Doctype
-Frameset Doctype
-
-Please explain how to indicate the character set being used by a document in HTML ?
-Ans
-The character set is defined in meta tag inside head element
+Please explain how to indicate the character set being used by a document in HTML ?<br>
+Ans : The character set is defined in meta tag inside head element
 
 meta charset="UTF-8"
 
-What is the difference between strong, b tags and em, i tags ?
-Ans
-The effect on a normal webpage of the tags strong, b and em, i is the same. b and i tags stands for bold and italic. These two tags only apply font styling and bold tag b, just adds more ink to the text, these tags don't say anything about the text.
+What is the difference between strong, b tags and em, i tags ?<br>
+Ans : The effect on a normal webpage of the tags strong, b and em, i is the same. b and i tags stands for bold and italic. These two tags only apply font styling and bold tag b, just adds more ink to the text, these tags don't say anything about the text.<br>
 
-Whereas, strong and em tags represent that the span of text is of strong importance or more importance and emphatic stress respectively than the rest of the text. These tags have semantic meaning
+Whereas, strong and em tags represent that the span of text is of strong importance or more importance and emphatic stress respectively than the rest of the text. These tags have semantic meaning<br>
 
-What is the significance of head and body tag in HTML ?
-Ans
-head tag provides the information about the document. It should always be enclosed in the tag. This tag contains the metadata about the webpage and the tags which are enclosed by head tag like link, meta, style, script, etc. are not displayed on the web page. Also, there can be only 1 head tag in the entire Html document and will always be before the body tag.
+What is the significance of head and body tag in HTML ?<br>
+Ans : head tag provides the information about the document. It should always be enclosed in the tag. This tag contains the metadata about the webpage and the tags which are enclosed by head tag like link, meta, style, script, etc. are not displayed on the web page. Also, there can be only 1 head tag in the entire Html document and will always be before the body tag.<br>
 
-body tag defines the body of the HTML document. It should always be enclosed in the html tag. All the contents which needs to be displayed on the web page like images, text, audio, video, contents, using elements like p, img, audio, heading, video, div, etc. will always be enclosed by the body tag. Also, there can be only 1 body element in an HTML document and will always be after the head tag
+body tag defines the body of the HTML document. It should always be enclosed in the html tag. All the contents which needs to be displayed on the web page like images, text, audio, video, contents, using elements like p, img, audio, heading, video, div, etc. will always be enclosed by the body tag. Also, there can be only 1 body element in an HTML document and will always be after the head tag<br>
 
-Can we display a web page inside a web page or Is nesting of webpages possible ?
-Ans
-Yes, we can display a web page inside another HTML web page. HTML provides a tag iframe using which we can achieve this functionality
+Can we display a web page inside a web page or Is nesting of webpages possible ?<br>
+Ans : Yes, we can display a web page inside another HTML web page. HTML provides a tag iframe using which we can achieve this functionality
 `iframe src=url of the web page to embed `
 
-How is Cell Padding different from Cell Spacing ?
-Ans
-Cell Spacing is the space or gap between two consecutive cells. Whereas, Cell Padding is the space or gap between the text/ content of the cell and the edge/ border of the cell. Please refer to the above figure example to find the difference
+How is Cell Padding different from Cell Spacing ?<br>
+Ans : Cell Spacing is the space or gap between two consecutive cells. Whereas, Cell Padding is the space or gap between the text/ content of the cell and the edge/ border of the cell. Please refer to the above figure example to find the difference
 
-How can we club two or more rows or columns into a single row or column in an HTML table ?
-Ans
-HTML provides two table attributes “rowspan” and “colspan” to make a cell span to multiple rows and columns respectively.
+How can we club two or more rows or columns into a single row or column in an HTML table ?<br>
+Ans : HTML provides two table attributes “rowspan” and “colspan” to make a cell span to multiple rows and columns respectively.
 
-Is it possible to change an inline element into a block level element ?
-Ans
-Yes, it is possible using the “display” property with its value as “block”, to change the inline element into a block-level element.
+Is it possible to change an inline element into a block level element ?<br>
+Ans : Yes, it is possible using the “display” property with its value as “block”, to change the inline element into a block-level element.
 
-What are the permissible values of the position attribute ?
-Ans
-There are 6 values of position attribute that can be used to position an html element.
+What are the permissible values of the position attribute ?<br>
+Ans : There are 6 values of position attribute that can be used to position an html element.
 1 . relative
 2 . fixed
 3 . static
@@ -115,8 +105,8 @@ There are 6 values of position attribute that can be used to position an html el
 5 . inherit
 6 . initial
 
-In how many ways you can display HTML elements ?
-Ans
+In how many ways you can display HTML elements ?<br>
+Ans:
 1 . block
 2 . none
 3 . inline
@@ -125,39 +115,36 @@ Ans
 6 . inline-flex
 7 . grid
 
-What is the difference between “display: none” and “visibility: hidden”, when used as attributes to the HTML element
-Ans
-used to visibility : hidden the html element are hidden and still takes up space. but the display : none hidden the element and it dont take any space .
+What is the difference between “display: none” and “visibility: hidden”, when used as attributes to the HTML element?<br>
+Ans : used to visibility : hidden the html element are hidden and still takes up space. but the display : none hidden the element and it dont take any space .
 
-How to specify the link in HTML and explain the target attribute ?
-Ans
-There are 4 types terget attribute
-_blank _top _self _parent
+How to specify the link in HTML and explain the target attribute ?<br>
+Ans : There are 4 types terget attribute
+1. _blank
+2. _top 
+3. _self 
+4.  _parent
 
-In how many ways can we specify the CSS styles for the HTML element ?
-Ans
-There are 3 types css styles in html element
-inline external internal
+In how many ways can we specify the CSS styles for the HTML element ?<br>
+Ans : There are 3 types css styles in html element
+1. inline
+2. external
+3. internal
+  
+Difference between link tag link and anchor tag a ?<br>
+Ans : a tag is create a hyperlink to another webpage . On the other hand link is connected to the external resources.
 
-Difference between link tag link and anchor tag a ?
-Ans
-a tag is create a hyperlink to another webpage . On the other hand link is connected to the external resources.
+How to include javascript code in HTML ?<br>
+Ans : Use a script tag after the body closing tag.
 
-How to include javascript code in HTML ?
-Ans
-Use a script tag after the body closing tag.
+When to use scripts in the head and when to use scripts in the body ?<br>
+Ans : if the scripts contain some event-triggered functions or jquery library then we should use them in the head section. If the script writes the content on the page or is not inside a function then it should be placed inside the body section at the bottom
 
-When to use scripts in the head and when to use scripts in the body ?
-Ans
-if the scripts contain some event-triggered functions or jquery library then we should use them in the head section. If the script writes the content on the page or is not inside a function then it should be placed inside the body section at the bottom
+What are forms ?<br>
+Ans : The HTML form is used to collect the user inputs
 
-What are forms ?
-Ans
-The HTML form is used to collect the user inputs
-
-How to handle events in HTML ?
-Ans
-Using javascript , jquery to handle events in html . there are a lot's of type event onclick , onchnage etc.
+How to handle events in HTML ?<br>
+Ans : Using javascript , jquery to handle events in html . there are a lot's of type event onclick , onchnage etc.
 
 What are some of the advantages of HTML5 over its previous versions ?
 Ans
@@ -324,9 +311,12 @@ Blog post
 Newspaper article  
 
 What are the different media types and formats supported by HTML?<br>
-ANS : Images: jpg, jpeg, png, gif, svg, apng, BMP ico <br>
-Audio: RealAudio, WMA, MIDI, AAC, WAV, MP3, MP4 <br>
-Video: MPEG, AVI, QuickTime, RealVideo, WMV, Flash, WebM, and MP4 
+ANS : 
+1. Images: jpg, jpeg, png, gif, svg, apng, BMP ico
+2. Audio: RealAudio, WMA, MIDI, AAC, WAV, MP3, MP4 
+3. Video: MPEG, AVI, QuickTime, RealVideo, WMV, Flash, WebM, and MP4 
+
+
   
   
   

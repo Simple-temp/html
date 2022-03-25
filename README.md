@@ -1,4 +1,253 @@
 # Html
+Are the html tags and elements the same things?<br>
+ANS : No..Because html elements are , there will be a starting tag at the beginning and some content in it and a closing tag at the end. html tag is a starting tag and a closing tag .<br>
+
+What are tags and attributes in html?<br>
+Ans : Tags are the primary component of the HTML that defines how the content will be structured/ formatted, whereas Attributes are used along with the HTML tags to define the characteristics of the element. ‘align’ is the attribute using which we will align the paragraph to show in the center of the view.<br>
+
+What are void elements in html?<br>
+Ans : Void tag are that tag who have no closing tag .. Example img tag, br tag, hr etc.<br>
+
+What is the advangtage of collapsing white space?<br>
+Ans : In HTML, a blank sequence of whitespace characters is treated as a single space character, Because the browser collapses multiple spaces into a single space character and this helps a developer to indent lines of text without worrying about multiple spaces and maintain readability and understandability of HTML codes.<br>
+
+What are html entities? <br>
+Ans : In HTML some characters are reserved like ‘<’, ‘>’, ‘/’, etc. To use these characters in our webpage we need to use the character entities called HTML Entities. Below are a few mapping between the reserved character and its respective entity character to be used.<br>
+
+What are defferent type of list in html ?<br>
+Ans : There are two types of list in html . one is the order list and other is the unorder list.<br>
+
+What is the class attribute in html ?<br>
+Ans : The class attribute is used to specify the class name for an HTML element. Multiple elements in HTML can have the same class value. Also, it is mainly used to associate the styles written in the stylesheet with the HTML elements<br>
+
+What is the defference of id attribute and class attribute of html elements ?<br>
+Ans : Multiple elements in HTML can have the same class value, whereas a value of id attribute of one element cannot be associated with another HTML element.<br>
+
+Define multipart from data ?<br>
+Ans : Multipart form data is one of the values of the enctype attribute. It is used to send the file data to the server-side for processing. The other valid values of the enctype attribute are text/plain and application/x-www-form-urlencoded<br>
+
+Describe html layout structure ?<br>
+Ans : Every web page has different components to display the intended content and a specific UI. But still, there are few things which are templated and are globally accepted way to structure the web page, such as:<br>
+
+1. header: Stores the starting information about the web page.
+2. footer: Represents the last section of the page.
+3. nav: The navigation menu of the HTML page.
+4. article: It is a set of information.
+5. section: It is used inside the article block to define the basic structure of a page.
+6. aside: Sidebar content of the page
+<br>
+
+How to optimize assets loading ?<br>
+Ans : To optimize website load time we need to optimize its asset loading and for that:<br>
+
+1. CDN hosting - A CDN or content delivery network is geographically distributed servers to help reduce latency.
+2. File compression - This is a method that helps to reduce the size of an asset to reduce the data transfer
+3. File concatenation - This reduces the number of HTTP calls.
+4. Minify scripts - This reduces the overall file size of js and CSS files
+5. Parallel downloads - Hosting assets in multiple subdomains can help to bypass the download limit of 6 assets per domain of all modern browsers. This can be configured but most general users never modify these settings.
+6. Lazy Loading - Instead of loading all the assets at once, the non-critical assets can be loaded on a need basis
+
+What are the various formatting tag in html ?
+Ans : HTML has various formatting tags:<br>
+
+b - makes text bold
+i - makes text italic
+em - makes text italic but with added semantics importance
+big - increases the font size of the text by one unit
+small - decreases the font size of the text by one unit
+sub - makes the text a subscript
+sup - makes the text a superscript
+del - displays as strike out text
+strong - marks the text as important
+mark - highlights the text
+ins - displays as added text
+
+what are the defferent kinds of doctypes available ?
+Ans
+The three kinds of Doctypes which are available
+
+Strict Doctype
+Transitional Doctype
+Frameset Doctype
+
+Please explain how to indicate the character set being used by a document in HTML ?
+Ans
+The character set is defined in meta tag inside head element
+
+meta charset="UTF-8"
+
+What is the difference between strong, b tags and em, i tags ?
+Ans
+The effect on a normal webpage of the tags strong, b and em, i is the same. b and i tags stands for bold and italic. These two tags only apply font styling and bold tag b, just adds more ink to the text, these tags don't say anything about the text.
+
+Whereas, strong and em tags represent that the span of text is of strong importance or more importance and emphatic stress respectively than the rest of the text. These tags have semantic meaning
+
+What is the significance of head and body tag in HTML ?
+Ans
+head tag provides the information about the document. It should always be enclosed in the tag. This tag contains the metadata about the webpage and the tags which are enclosed by head tag like link, meta, style, script, etc. are not displayed on the web page. Also, there can be only 1 head tag in the entire Html document and will always be before the body tag.
+
+body tag defines the body of the HTML document. It should always be enclosed in the html tag. All the contents which needs to be displayed on the web page like images, text, audio, video, contents, using elements like p, img, audio, heading, video, div, etc. will always be enclosed by the body tag. Also, there can be only 1 body element in an HTML document and will always be after the head tag
+
+Can we display a web page inside a web page or Is nesting of webpages possible ?
+Ans
+Yes, we can display a web page inside another HTML web page. HTML provides a tag iframe using which we can achieve this functionality
+`iframe src=url of the web page to embed `
+
+How is Cell Padding different from Cell Spacing ?
+Ans
+Cell Spacing is the space or gap between two consecutive cells. Whereas, Cell Padding is the space or gap between the text/ content of the cell and the edge/ border of the cell. Please refer to the above figure example to find the difference
+
+How can we club two or more rows or columns into a single row or column in an HTML table ?
+Ans
+HTML provides two table attributes “rowspan” and “colspan” to make a cell span to multiple rows and columns respectively.
+
+Is it possible to change an inline element into a block level element ?
+Ans
+Yes, it is possible using the “display” property with its value as “block”, to change the inline element into a block-level element.
+
+What are the permissible values of the position attribute ?
+Ans
+There are 6 values of position attribute that can be used to position an html element.
+1 . relative
+2 . fixed
+3 . static
+4 . absolute
+5 . inherit
+6 . initial
+
+In how many ways you can display HTML elements ?
+Ans
+1 . block
+2 . none
+3 . inline
+4 . inline-block
+5 . flex
+6 . inline-flex
+7 . grid
+
+What is the difference between “display: none” and “visibility: hidden”, when used as attributes to the HTML element
+Ans
+used to visibility : hidden the html element are hidden and still takes up space. but the display : none hidden the element and it dont take any space .
+
+How to specify the link in HTML and explain the target attribute ?
+Ans
+There are 4 types terget attribute
+_blank _top _self _parent
+
+In how many ways can we specify the CSS styles for the HTML element ?
+Ans
+There are 3 types css styles in html element
+inline external internal
+
+Difference between link tag link and anchor tag a ?
+Ans
+a tag is create a hyperlink to another webpage . On the other hand link is connected to the external resources.
+
+How to include javascript code in HTML ?
+Ans
+Use a script tag after the body closing tag.
+
+When to use scripts in the head and when to use scripts in the body ?
+Ans
+if the scripts contain some event-triggered functions or jquery library then we should use them in the head section. If the script writes the content on the page or is not inside a function then it should be placed inside the body section at the bottom
+
+What are forms ?
+Ans
+The HTML form is used to collect the user inputs
+
+How to handle events in HTML ?
+Ans
+Using javascript , jquery to handle events in html . there are a lot's of type event onclick , onchnage etc.
+
+What are some of the advantages of HTML5 over its previous versions ?
+Ans
+advangtage is semantic , capability , run in background etc
+
+How can we include audio or video in a webpage ?
+Ans
+audio tag and video tag include audio or video in a webpage.
+
+Inline and block elements in HTML5 ?
+Ans
+inline element are img, a, button, label , input etc. block element are p , all heading tag header , section , footer
+
+What is the difference between figure tag and img tag?
+Ans
+figure tag is used to semantically organize the contents . img tag is used to embed the picture in the HTML5 document
+
+How to specify the metadata in HTML5?
+Ans
+To specify we can use meta tag which is a void tag,i.e., it does not have a closing tag. Some of the attributes used with meta tags are name, content, http-equiv, etc. The below image tells how to specify the metadata
+
+Is the datalist tag and select tag same ?
+Ans
+No. The datalist tag and select tag are different
+
+Define Image Map ?
+Ans
+It can be achieved by the map tag in HTML5
+
+What are Semantic Elements ?
+Ans
+Semantic elements are those which describe the particular meaning to the browser and the developer. Elements like from, table, article, figure, etc., are semantic elements.
+
+Convert the below data into Tabular format in HTML5 ?
+Ans
+this is table formate
+
+Is drag and drop possible using HTML5 and how ?
+Ans
+Yes, in HTML5 we can drag and drop an element
+
+What is the difference between meter tag and progress tag ?
+Ans
+meter tag has extra attribute like ‘form’, ‘low’, ‘high’, ‘min’, etc but progress tag should be used when we want to show the completion progress of a task
+
+Difference between SVG and Canvas HTML5 element ?
+Ans
+SVG is a vector based i.e. , highly scalable , high quality
+Canvas It is Raster based i.e. , less scalable , quality avarage
+
+What type of audio files can be played using HTML5?
+Ans
+MP3 WAV Ogg
+
+What are the significant goals of the HTML5 specification ?
+Ans
+better structure , Forming a standard in cross-browser behavior without the dependency of plugins such as video tag
+
+Explain the concept of web storage in HTML5 ?
+Ans
+local storage and session storage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 what is microdata in html5? <br>
 ANS : Microdata is a standardized way to provide additional semantics in your web pages. for example itemid , itemprop, itemscope.. <br>

@@ -1,23 +1,23 @@
 # Html
-Are the html tags and elements the same things?<br>
+# Are the html tags and elements the same things?<br>
 ANS : No..Because html elements are , there will be a starting tag at the beginning and some content in it and a closing tag at the end. html tag is a starting tag and a closing tag .<br>
 
-What are tags and attributes in html?<br>
+# What are tags and attributes in html?<br>
 Ans : Tags are the primary component of the HTML that defines how the content will be structured/ formatted, whereas Attributes are used along with the HTML tags to define the characteristics of the element. ‘align’ is the attribute using which we will align the paragraph to show in the center of the view.<br>
 
-What are void elements in html?<br>
+# What are void elements in html?<br>
 Ans : Void tag are that tag who have no closing tag .. Example img tag, br tag, hr etc.<br>
 
-What is the advangtage of collapsing white space?<br>
+# What is the advangtage of collapsing white space?<br>
 Ans : In HTML, a blank sequence of whitespace characters is treated as a single space character, Because the browser collapses multiple spaces into a single space character and this helps a developer to indent lines of text without worrying about multiple spaces and maintain readability and understandability of HTML codes.<br>
 
-What are html entities? <br>
+# What are html entities? <br>
 Ans : In HTML some characters are reserved like ‘<’, ‘>’, ‘/’, etc. To use these characters in our webpage we need to use the character entities called HTML Entities. Below are a few mapping between the reserved character and its respective entity character to be used.<br>
 
-What are defferent type of list in html ?<br>
+# What are defferent type of list in html ?<br>
 Ans : There are two types of list in html . one is the order list and other is the unorder list.<br>
 
-What is the class attribute in html ?<br>
+# What is the class attribute in html ?<br>
 Ans : The class attribute is used to specify the class name for an HTML element. Multiple elements in HTML can have the same class value. Also, it is mainly used to associate the styles written in the stylesheet with the HTML elements<br>
 
 What is the defference of id attribute and class attribute of html elements ?<br>
@@ -146,66 +146,53 @@ Ans : The HTML form is used to collect the user inputs
 How to handle events in HTML ?<br>
 Ans : Using javascript , jquery to handle events in html . there are a lot's of type event onclick , onchnage etc.
 
-What are some of the advantages of HTML5 over its previous versions ?
-Ans
-advangtage is semantic , capability , run in background etc
+What are some of the advantages of HTML5 over its previous versions ?<br>
+Ans : advangtage is semantic , capability , run in background etc
 
-How can we include audio or video in a webpage ?
-Ans
-audio tag and video tag include audio or video in a webpage.
+How can we include audio or video in a webpage ?<br>
+Ans : audio tag and video tag include audio or video in a webpage.
 
-Inline and block elements in HTML5 ?
-Ans
-inline element are img, a, button, label , input etc. block element are p , all heading tag header , section , footer
+Inline and block elements in HTML5 ?<br>
+Ans : inline element are img, a, button, label , input etc. block element are p , all heading tag header , section , footer
 
-What is the difference between figure tag and img tag?
-Ans
-figure tag is used to semantically organize the contents . img tag is used to embed the picture in the HTML5 document
+What is the difference between figure tag and img tag?<br>
+Ans : figure tag is used to semantically organize the contents . img tag is used to embed the picture in the HTML5 document
 
-How to specify the metadata in HTML5?
-Ans
-To specify we can use meta tag which is a void tag,i.e., it does not have a closing tag. Some of the attributes used with meta tags are name, content, http-equiv, etc. The below image tells how to specify the metadata
+How to specify the metadata in HTML5?<br>
+Ans : To specify we can use meta tag which is a void tag,i.e., it does not have a closing tag. Some of the attributes used with meta tags are name, content, http-equiv, etc. The below image tells how to specify the metadata
 
-Is the datalist tag and select tag same ?
-Ans
-No. The datalist tag and select tag are different
+Is the datalist tag and select tag same ?<br>
+Ans : No. The datalist tag and select tag are different
 
-Define Image Map ?
-Ans
-It can be achieved by the map tag in HTML5
+Define Image Map ?<br>
+Ans : It can be achieved by the map tag in HTML5
 
-What are Semantic Elements ?
-Ans
-Semantic elements are those which describe the particular meaning to the browser and the developer. Elements like from, table, article, figure, etc., are semantic elements.
+What are Semantic Elements ?<br>
+Ans : Semantic elements are those which describe the particular meaning to the browser and the developer. Elements like from, table, article, figure, etc., are semantic elements.
 
-Convert the below data into Tabular format in HTML5 ?
-Ans
-this is table formate
+Convert the below data into Tabular format in HTML5 ?<br>
+Ans : this is table formate
 
-Is drag and drop possible using HTML5 and how ?
-Ans
-Yes, in HTML5 we can drag and drop an element
+Is drag and drop possible using HTML5 and how ?<br>
+Ans : Yes, in HTML5 we can drag and drop an element
 
-What is the difference between meter tag and progress tag ?
-Ans
-meter tag has extra attribute like ‘form’, ‘low’, ‘high’, ‘min’, etc but progress tag should be used when we want to show the completion progress of a task
+What is the difference between meter tag and progress tag ?<br>
+Ans : meter tag has extra attribute like ‘form’, ‘low’, ‘high’, ‘min’, etc but progress tag should be used when we want to show the completion progress of a task
 
-Difference between SVG and Canvas HTML5 element ?
+Difference between SVG and Canvas HTML5 element ?<br>
 Ans
 SVG is a vector based i.e. , highly scalable , high quality
 Canvas It is Raster based i.e. , less scalable , quality avarage
 
-What type of audio files can be played using HTML5?
+What type of audio files can be played using HTML5?<br>
 Ans
-MP3 WAV Ogg
+MP3... WAV... Ogg...
 
-What are the significant goals of the HTML5 specification ?
-Ans
-better structure , Forming a standard in cross-browser behavior without the dependency of plugins such as video tag
+What are the significant goals of the HTML5 specification ?<br>
+Ans : better structure , Forming a standard in cross-browser behavior without the dependency of plugins such as video tag
 
-Explain the concept of web storage in HTML5 ?
-Ans
-local storage and session storage
+Explain the concept of web storage in HTML5 ?<br>
+Ans : local storage and session storage
 
 what is microdata in html5? <br>
 ANS : Microdata is a standardized way to provide additional semantics in your web pages. for example itemid , itemprop, itemscope.. <br>

@@ -184,8 +184,7 @@ SVG is a vector based i.e. , highly scalable , high quality
 Canvas It is Raster based i.e. , less scalable , quality avarage
 
 # What type of audio files can be played using HTML5?<br>
-Ans
-MP3... WAV... Ogg...
+Ans : MP3... WAV... Ogg...
 
 # What are the significant goals of the HTML5 specification ?<br>
 Ans : better structure , Forming a standard in cross-browser behavior without the dependency of plugins such as video tag
